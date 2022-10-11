@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thangquocdang
-- 👀 I’m interested in Computer Vision, Deep Learning
+- 👀 I’m interested in Computer Vision, Recommendation System
 - 🌱 I’m currently learning Machine Learning
 - 📫 Reach me at quocthang1311dut@gmail.com
 
